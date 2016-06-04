@@ -14,4 +14,7 @@ Contains code written in C++ language
 <li>File Handling</li>
 <li>Error Handling</li>
 <li>String Manipulation</li>
+<li>Sorting</li>
+<li>Graphs</li>
+<li>Dynamic and Greedy Programming</li>
 </ol>
