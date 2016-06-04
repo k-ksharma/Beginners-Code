@@ -7,4 +7,4 @@
 <li>Python</li>
 <li>Java</li>
 </ol>
-<br>Further as we will learn more languages, we will post them here ASAP.
+Further as we will learn more languages, we will post them here ASAP.
