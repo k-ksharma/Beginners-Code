@@ -14,5 +14,8 @@ Contains Code written in Java.
 <li>File Handling</li>
 <li>Error Handling</li>
 <li>String Manipulation</li>
+<li>Sorting</li>
+<li>Graphs</li>
+<li>Dynamic and Greedy Programming</li>
 </ol>
 and many more to come.................
